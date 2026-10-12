@@ -5,9 +5,11 @@ Unofficial, alternate-universe fan demo. All employment, customer engagements, t
 ## Run locally
 
 Requires Node.js 20.19+ or 22.12+.
-<img width="2822" height="2194" alt="Screenshot from 2026-10-12 16-27-19" src="https://github.com/user-attachments/assets/26a0818d-e394-4c35-a1fd-26bc3a57a408" />
+
 
 <img width="2732" height="1825" alt="Screenshot from 2026-10-12 16-23-53" src="https://github.com/user-attachments/assets/80a12582-a162-4db4-993b-cbcbdcbdf85f" />
+
+<img width="2822" height="2194" alt="Screenshot from 2026-10-12 16-27-19" src="https://github.com/user-attachments/assets/26a0818d-e394-4c35-a1fd-26bc3a57a408" />
 
 <img width="2448" height="1956" alt="Screenshot from 2026-10-12 16-28-27" src="https://github.com/user-attachments/assets/8147cddf-a85e-4d91-a430-cb0bbe250c07" />
 
