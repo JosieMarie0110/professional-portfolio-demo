@@ -5,6 +5,15 @@ Unofficial, alternate-universe fan demo. All employment, customer engagements, t
 ## Run locally
 
 Requires Node.js 20.19+ or 22.12+.
+<img width="2822" height="2194" alt="Screenshot from 2026-10-12 16-27-19" src="https://github.com/user-attachments/assets/26a0818d-e394-4c35-a1fd-26bc3a57a408" />
+
+<img width="2732" height="1825" alt="Screenshot from 2026-10-12 16-23-53" src="https://github.com/user-attachments/assets/80a12582-a162-4db4-993b-cbcbdcbdf85f" />
+
+<img width="2448" height="1956" alt="Screenshot from 2026-10-12 16-28-27" src="https://github.com/user-attachments/assets/8147cddf-a85e-4d91-a430-cb0bbe250c07" />
+
+<img width="2070" height="1623" alt="Screenshot from 2026-10-12 16-29-12" src="https://github.com/user-attachments/assets/4f6c0d0d-d71f-49ad-b4ed-ac64998b0b69" />
+
+<img width="2070" height="1623" alt="Screenshot from 2026-10-12 16-29-12" src="https://github.com/user-attachments/assets/51f2b936-dcb9-4a2a-bcdf-58a06fe7a5da" />
 
 ```bash
 npm install
@@ -24,6 +33,12 @@ Customer engagements use `employerId` to associate each account/incident to an e
 ## Architecture
 
 React + Vite is a static application with no backend/database. All project-selection behavior runs locally in the browser. Cloud Run, Gemini, FastAPI, and Firestore appear in *fictional future architecture examples*, not as integrations implemented in this repository.
+
+
+
+
+
+
 
 ## Copyright / public use
 
