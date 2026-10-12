@@ -34,7 +34,6 @@ Customer engagements use `employerId` to associate each account/incident to an e
 
 <img width="2070" height="1623" alt="Screenshot from 2026-10-12 16-29-12" src="https://github.com/user-attachments/assets/4f6c0d0d-d71f-49ad-b4ed-ac64998b0b69" />
 
-<img width="2070" height="1623" alt="Screenshot from 2026-10-12 16-29-12" src="https://github.com/user-attachments/assets/51f2b936-dcb9-4a2a-bcdf-58a06fe7a5da" />
 
 ## Architecture
 
