@@ -1,6 +1,6 @@
 # Han Solo — Galaxy Ops (fictional Cloud TAM portfolio)
 
-Unofficial, alternate-universe fan demo. All employment, customer engagements, technology outcomes, and application projects are invented; they are not film canon, real endorsements, or live cloud services.
+Interactive professional portfolio demo showcasing career progression, customer engagements, technical projects, cloud architecture, and leadership through a fictional sci-fi themed candidate.
 
 ## Run locally
 
